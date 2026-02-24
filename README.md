@@ -38,6 +38,7 @@ Backend Engineer dedicated to building high-performance, scalable systems. Speci
 
 **Tools & Orchestration**
 <img src="https://www.vectorlogo.zone/logos/getcelery/getcelery-icon.svg" title="Celery" alt="Celery" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/dabit3/graphics/master/alembic-logo.png" title="Alembic" alt="Alembic" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
