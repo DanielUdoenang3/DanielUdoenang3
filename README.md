@@ -1,4 +1,4 @@
-# Hi there, I'm Daniel Udoenang 👋
+# Hi 👋, I'm Daniel Udoenang
 ### 🚀 Software Engineer | Backend Specialist 
 
 Backend Engineer dedicated to building high-performance, scalable systems. Specializing in Python and FastAPI to solve tomorrow’s challenges through distributed architecture and cloud infrastructure.
@@ -10,11 +10,11 @@ Backend Engineer dedicated to building high-performance, scalable systems. Speci
 <a href="https://www.linkedin.com/in/daniel-udoenang/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="https://x.com/lei_nad3 target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" target="_blank" alt="X" height="30" width="40" />
+<a href="https://x.com/lei_nad3" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" />
 </a>
-<a href="https://wa.me/08022390121" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" target="_blank" alt="WhatsApp" height="30" width="40" />
+<a href="https://wa.me/08022390121" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
 </a>
 </p>
 
