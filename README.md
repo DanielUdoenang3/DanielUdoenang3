@@ -34,17 +34,9 @@ I love building software to solve tommorows problems today. I love python and fa
 
 ---
 
-### 🔭 Currently Working On
-- ⚡ **Learning:** Expanding my ecosystem into **Node.js** for full-stack versatility.
-- 🏗️ **Projects:** - [IventVerse](https://iventverse.com) - Event management at scale.
-    - [JovoMart](https://jovomart.onrender.com) - E-commerce infrastructure.
-- 🔧 **Tools:** Fine-tuning migrations with **Alembic** and optimizing backend workflows.
-
----
-
 ### 📊 GitHub Stats
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=radical&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&theme=radical)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=[DanielUdoenang3]&show_icons=true&theme=radical&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[DanielUdoenang3]&layout=compact&theme=radical)
 
 ---
 
@@ -60,7 +52,7 @@ I love building software to solve tommorows problems today. I love python and fa
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abas-dev&" alt="abas-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielUdoenang3&" alt="abas-dev" /></p>
 
 <p align="left">
   <a href="https://skillicons.dev">
