@@ -31,13 +31,13 @@ Backend Engineer dedicated to building high-performance, scalable systems. Speci
 **DevOps & Infrastructure**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="Appwrite" width="40" height="40" title="Appwrite"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" title="Appwrite" alt="Appwrite" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" title="CI/CD" alt="CI/CD" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 
 **Tools & Orchestration**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/celery/celery-original.svg" title="Celery" alt="Celery" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getcelery/getcelery-icon.svg" title="Celery" alt="Celery" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
@@ -46,6 +46,7 @@ Backend Engineer dedicated to building high-performance, scalable systems. Speci
 
 ### 🔭 Projects & Work
 - 🏗️ **[Iventverse](https://iventverse.com)** - Event management at scale.
+
 ---
 
 <p align="center">
