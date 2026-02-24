@@ -1,16 +1,14 @@
 # Hi there, I'm Daniel Udoenang 👋
 ### 🚀 Software Engineer | Backend Specialist 
 
-I'm a passionate **Backend Developer** focused on building scalable, high-performance server-side applications. I specialize in Python and its ecosystem, with a deep interest in distributed systems and cloud infrastructure.
-
-I love building software to solve tommorows problems today. I love python and fastapi for api development
+I'm a passionate **Backend Developer** focused on building scalable, high-performance server-side applications. I love building software to solve tommorows problems today. I love python and fastapi for api development with a deep interest in distributed systems and cloud infrastructure.
 
 ---
 
 ### 🛠 My Tech Stack
 
 **Core Language & Frameworks**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python]<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -29,7 +27,8 @@ I love building software to solve tommorows problems today. I love python and fa
 **Tools & Orchestration**
 ![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git]<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+![Github]<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white)
 
 ---
@@ -42,12 +41,4 @@ I love building software to solve tommorows problems today. I love python and fa
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-udoenang/)
-[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jovomart.onrender.com)
-
----
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,fastapi,js,cpp,postgres,redis,sqlalchemy,docker,gcp,linux,bash,postman,git,nodejs,html,css" />
-  </a>
-</p>
+[![Twiter](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-udoenang/)
