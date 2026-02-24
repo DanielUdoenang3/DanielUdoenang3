@@ -61,3 +61,9 @@ I love building software to solve tommorows problems today. I love python and fa
 ---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abas-dev&" alt="abas-dev" /></p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,js,cpp,postgres,redis,sqlalchemy,docker,gcp,linux,bash,postman,git,nodejs,html,css" />
+  </a>
+</p>
