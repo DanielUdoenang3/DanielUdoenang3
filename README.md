@@ -34,12 +34,6 @@ I love building software to solve tommorows problems today. I love python and fa
 
 ---
 
-### 📊 GitHub Stats
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=[DanielUdoenang3]&show_icons=true&theme=radical&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[DanielUdoenang3]&layout=compact&theme=radical)
-
----
-
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
@@ -51,8 +45,6 @@ I love building software to solve tommorows problems today. I love python and fa
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jovomart.onrender.com)
 
 ---
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielUdoenang3&" alt="abas-dev" /></p>
 
 <p align="left">
   <a href="https://skillicons.dev">
