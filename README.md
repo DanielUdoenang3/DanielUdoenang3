@@ -5,6 +5,11 @@ I'm a passionate **Backend Developer** focused on building scalable, high-perfor
 
 ---
 
+### 📫 Let's Connect!
+<a href="https://www.linkedin.com/in/daniel-udoenang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-udoenang/" height="30" width="40" /></a>
+
+---
+
 ### 🛠 My Tech Stack
 
 **Core Language & Frameworks**
@@ -38,16 +43,10 @@ I'm a passionate **Backend Developer** focused on building scalable, high-perfor
 
 ### 🔭 Projects & Work
 - 🏗️ **[Iventverse](https://iventverse.com)** - Event management at scale.
-- 🛒 **[Jovomart](https://jovomart.onrender.com)** - E-commerce infrastructure.
-- ⚡ **Currently Learning:** Advanced Node.js and Microservices Architecture.
+<!-- - 🛒 **[Jovomart](https://jovomart.onrender.com)** - E-commerce infrastructure. -->
 
 ---
 
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
-
----
-
-### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-udoenang/)
