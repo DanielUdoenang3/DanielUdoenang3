@@ -1,7 +1,7 @@
 # Hi there, I'm Daniel Udoenang 👋
 ### 🚀 Software Engineer | Backend Specialist 
 
-I'm a passionate **Backend Developer** focused on building scalable, high-performance server-side applications. I love building software to solve tomorrow's problems today. I specialize in **Python** and **FastAPI** for API development with a deep interest in distributed systems and cloud infrastructure.
+Backend Engineer dedicated to building high-performance, scalable systems. Specializing in Python and FastAPI to solve tomorrow’s challenges through distributed architecture and cloud infrastructure.
 
 ---
 
