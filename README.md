@@ -6,7 +6,9 @@ Backend Engineer dedicated to building high-performance, scalable systems. Speci
 ---
 
 ### 📫 Let's Connect!
-<a href="https://www.linkedin.com/in/daniel-udoenang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-udoenang/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daniel-udoenang/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 
 ---
 
@@ -29,6 +31,7 @@ Backend Engineer dedicated to building high-performance, scalable systems. Speci
 **DevOps & Infrastructure**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" title="Appwrite" alt="Appwrite" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" title="CI/CD" alt="CI/CD" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
@@ -43,8 +46,6 @@ Backend Engineer dedicated to building high-performance, scalable systems. Speci
 
 ### 🔭 Projects & Work
 - 🏗️ **[Iventverse](https://iventverse.com)** - Event management at scale.
-<!-- - 🛒 **[Jovomart](https://jovomart.onrender.com)** - E-commerce infrastructure. -->
-
 ---
 
 <p align="center">
