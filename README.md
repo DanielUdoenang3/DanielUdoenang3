@@ -32,7 +32,7 @@ Backend Engineer dedicated to building high-performance, scalable systems. Speci
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" title="Appwrite" alt="Appwrite" width="40" height="40"/>&nbsp; -->
-<img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="Appwrite" width="40" height="40" title="Appwrite"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" title="CI/CD" alt="CI/CD" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
